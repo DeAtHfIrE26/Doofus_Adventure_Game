@@ -42,12 +42,6 @@ plaintext
 
 ## 🔧 Core Mechanics
 
-Collect coins, solve puzzles, and defeat enemies.
+Collect Score, solve puzzles, and defeat enemies.
 Dynamic lighting, animations, and custom soundtracks.
 
-## 🤝 Contributing
-Fork the repo.
-Create a branch (git checkout -b feature-name).
-Commit (git commit -m "Description").
-Push (git push origin feature-name).
-Open a Pull Request.
